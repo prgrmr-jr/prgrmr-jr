@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jr</h1>
+<h1 align="center">Hi 👋, I'm Jose Rey</h1>
 <h3 align="center">Aims to be a backend developer</h3>
 
 - 🔭 I’m currently working on learning **NextJS**
