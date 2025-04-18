@@ -28,7 +28,7 @@ _Building digital solutions in the modern tech landscape_
 
 </div>
 
-## 【 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺 】
+## 【 𝚃𝙴𝙲𝙷 + 𝚃𝙾𝙾𝙻𝚂 】
 
 <div align="center">
 
@@ -44,12 +44,36 @@ _Building digital solutions in the modern tech landscape_
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Automa](https://img.shields.io/badge/-Automa-FABA32?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCA0MDAgNDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMDAgMGMxMTAuNDYxIDAgMjAwIDg5LjUzOSAyMDAgMjAwczg5LjUzOSAyMDAgMjAwIDIwMC0yMDAgODkuNTM5LTIwMCAyMDBzODkuNTM5LTIwMCAyMDAtMjAwIi8+PC9zdmc+)
+
 
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Admin](https://img.shields.io/badge/-Microsoft%20Admin-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/-Hostinger-430098?style=for-the-badge&logo=hostinger&logoColor=white)
+![Termius](https://img.shields.io/badge/-Termius-3F9E5E?style=for-the-badge&logo=termius&logoColor=white)
+![Ubuntu WSL](https://img.shields.io/badge/-Ubuntu%20WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Cloud PC](https://img.shields.io/badge/-Windows%20Cloud%20PC-00A4EF?style=for-the-badge&logo=microsoftwindows&logoColor=white)
 
 </div>
 
