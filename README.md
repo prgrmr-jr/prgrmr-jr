@@ -3,7 +3,7 @@
 
 # 「 JOSE REY 」
 
-![Cyberpunk Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=FullStack%20Developer&fontSize=30&fontColor=d6ace6&animation=fadeIn&fontAlignY=30)
+![Cyberpunk Divider](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FullStack%20Developer&reversal=true&textBg=false)
 
 _Engineering modern digital solutions across the web stack_
 
