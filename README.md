@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# 「 JOSE REY 」
-
 ![Cyberpunk Divider](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=FullStack%20Developer&reversal=true&textBg=false)
 
 </div>
